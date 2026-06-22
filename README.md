@@ -1,6 +1,6 @@
 # kinzer
 
 by :
-## Enzo Nussbaum
-## Chloé David
-## Jason Corso
+ Enzo Nussbaum
+ Chloé David
+ Jason Corso
